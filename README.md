@@ -2,8 +2,6 @@
 French repo
 [DMCA notice](https://github.com/DoxLio/FRDL3/blob/main/DMCA-notice.md)
 
----
-# DLFr
 French plugins for [CloudStream](https://cloudstream.on.fleek.co) developed from fun and interest
 
 ---
