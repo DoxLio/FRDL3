@@ -13,7 +13,7 @@ French plugins for [CloudStream](https://cloudstream.on.fleek.co) developed from
     - extensions
     - add repository
 - in repository URL, input either
-    - short-code: `DLFr`
+    - short-code: `FRDL3`
     - direct-link: `https://raw.githubusercontent.com/DoxLio/FRDL3/refs/heads/main/repo.json`
 ---
 ## Extensions
