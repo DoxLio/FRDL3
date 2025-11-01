@@ -4,6 +4,6 @@
   "description": "Plugins that sux",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/DoxLio/FRDL3/refs/heads/builds/repo.json"
+    "https://raw.githubusercontent.com/DoxLio/FRDL3/refs/heads/builds/plugins.json"
   ]
 }
