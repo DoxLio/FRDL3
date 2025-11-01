@@ -1,7 +1,7 @@
 {
   "name": "FRDL3",
   "iconUrl": "https://raw.githubusercontent.com/DoxLio/FRDL3/refs/heads/main/icons/repo.jpg",
-  "description": "Plugins that sux",
+  "description": "French Repo",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/DoxLio/FRDL3/refs/heads/builds/plugins.json"
