@@ -1,4 +1,4 @@
-package com.ycngmn
+package com.doxlio
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.plugins.Plugin
